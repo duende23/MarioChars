@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema claro -->
+    <color name="mario_red_light">#FAB3B3</color> <!-- Gorra y camiseta de Mario -->
+    <color name="mario_red_dark">#FF0000</color> <!-- Gorra y camiseta de Mario -->
+    <color name="mario_blue_light">#86A7FC</color> <!-- Overol de Mario -->
+    <color name="mario_blue_dark">#0000FF</color> <!-- Overol de Mario -->
+    <color name="mario_yellow">#FFD700</color> <!-- Botones del overol -->
+    <color name="pipe_green">#228B22</color> <!-- Tuberías verdes -->
+    <color name="coin_gold">#FFD700</color> <!-- Monedas doradas -->
+
+
+    <color name="background_light">#FFFFFF</color> <!-- Fondo claro -->
+    <color name="text_dark">#000000</color> <!-- Texto oscuro para fondos claros -->
+
+    <!-- Tema oscuro -->
+    <color name="mario_red_light_Night">#FF0000</color> <!-- Gorra y camiseta de Mario -->
+    <color name="mario_red_dark_Night">#780505</color> <!-- Gorra y camiseta de Mario -->
+    <color name="mario_blue_light_Night">#0000FF</color> <!-- Overol de Mario -->
+    <color name="mario_blue_dark_Night">#031543</color> <!-- Overol de Mario -->
+
+
+    <color name="background_dark">#1C1C1C</color> <!-- Fondo oscuro -->
+    <color name="text_light">#FFFFFF</color> <!-- Texto claro para fondos oscuros -->
+    <color name="toolbar_dark">#FF4500</color> <!-- Barra superior para oscuro (rojo fuego) -->
+    <color name="button_dark">#FFA500</color> <!-- Botones para oscuro (naranja dorado) -->
+    <color name="colorTextGray">#CCCBCB</color>-->
+
+  <!--  &lt;!&ndash; LightTheme  &ndash;&gt;
+    <color name="colorPrimary">#86A7FC</color>
+    <color name="colorPrimaryDark">#0C3CE7</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorAccent">#031543</color>
+    <color name="colorSecondary">#FAB3B3</color>
+    <color name="colorSecondaryDark">#FF0000</color>
+    <color name="colorOnSecondary">#FF000000</color>
+
+    &lt;!&ndash; NightTheme  &ndash;&gt;
+    <color name="colorPrimaryNigth">#0431A4</color>
+    <color name="colorPrimaryDarkNigth">#031543</color>
+    <color name="colorOnPrimaryNigth">#FFFFFFFF</color>
+    <color name="colorAccentNigth">#031543</color>
+    <color name="colorSecondaryNigth">#FF0000</color>
+    <color name="colorSecondaryDarkNigth">#780505</color>
+    <color name="colorOnSecondaryNigth">#FF000000</color>
+
+    <color name="colorToolbarTextNigth">#CCCBCB</color>
+    <color name="colorTextGray">#CCCBCB</color>-->
+</resources>

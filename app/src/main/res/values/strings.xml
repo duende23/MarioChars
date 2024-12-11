@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SuperMario Chars</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="tv_description">Descripción</string>
+    <string name="tv_skills">Habilidades</string>
+    <string name="action_info">Acerca de...</string>
+    <string name="dialog_info"> Aplicación desarrollada por Francisco Villanueva Muñoz.\nVersión 1.0</string>
+
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string name="header_image_desc">Imagen del perfil</string>
+    <string name="username">Francisco Villanueva Muñoz</string>
+    <string name="this_is_your_profile">Este es tu perfil</string>
+    <string name="switch_change_language">Cambiar idioma (Español/Inglés)</string>
+    <string name="switch_darkMode">Modo Oscuro</string>
+
+
+    <string name="title_fragment_list">"Lista de personajes"</string>
+    <string name="title_fragment_details">"Detalles del personaje"</string>
+    <string name="title_fragment_profile">"Perfil de usuario"</string>
+    <string name="welcome_message">"Bienvenido al mundo de Mario!!!"</string>
+    <string name="character_selection">"Se ha seleccionado el personaje "</string>
+
+    <!-- Mario -->
+    <string name="mario_description">"El icónico héroe del Reino Champiñón, conocido por salvar a la princesa Peach."</string>
+    <string name="mario_skills">"Saltar, Lanzar bolas de fuego, Super fuerza"</string>
+    <!-- Luigi -->
+    <string name="luigi_description">"El hermano de Mario, valiente aunque temeroso, siempre dispuesto a ayudar en la aventura."</string>
+    <string name="luigi_skills">"Salto alto, Lanzar bolas de fuego, Vaciar fantasmas con la aspiradora Poltergust"</string>
+
+    <!-- Peach -->
+    <string name="peach_description">"La princesa del Reino Champiñón, famosa por su amabilidad y su capacidad de liderazgo."</string>
+    <string name="peach_skills">"Flotar en el aire, Lanzar corazones, Habilidad diplomática"</string>
+
+    <!-- Bowser -->
+    <string name="bowser_description">"El temido rey de los Koopas, constantemente en busca de secuestrar a la princesa Peach."</string>
+    <string name="bowser_skills">"Lanzar fuego, Fuerza colosal, Llamar a su ejército de Koopas"</string>
+
+    <!-- Toad -->
+    <string name="toad_description">"Un fiel servidor del Reino Champiñón, pequeño pero lleno de energía y valor."</string>
+    <string name="toad_skills">"Correr rápido, Cargar objetos pesados, Resistencia impresionante"</string>
+
+    <!-- Yoshi -->
+    <string name="yoshi_description">"Un dinosaurio leal con un apetito insaciable, siempre dispuesto a ayudar a sus amigos."</string>
+    <string name="yoshi_skills">"Comer enemigos, Lanzar huevos, Flotar brevemente al saltar"</string>
+
+    <!-- Donkey Kong -->
+    <string name="donkey_kong_description">"El rey de la jungla, famoso por su destreza en el uso de barriles y su amor por los plátanos."</string>
+    <string name="donkey_kong_skills">"Lanzar barriles, Fuerza inigualable, Trepar con facilidad"</string>
+
+    <!-- Rosalina -->
+    <string name="rosalina_description">"La guardiana de los Lumas y del Cometa Observatorio."</string>
+    <string name="rosalina_skills">"Magia estelar, Gravedad, Protección de los Lumas"</string>
+
+    <!-- Wario -->
+    <string name="wario_description">"El rival egoísta de Mario, conocido por su fuerza bruta y su amor por la riqueza."</string>
+    <string name="wario_skills">"Fuerza increíble, Lanzar enemigos, Golpes poderosos"</string>
+
+    <!-- Bowser Jr. -->
+    <string name="bowser_jr_description">"El hijo travieso de Bowser, siempre causando problemas a Mario."</string>
+    <string name="bowser_jr_skills">"Usar pinceles mágicos, Conducir vehículos, Crear trampas"</string>
+
+
+
+</resources>

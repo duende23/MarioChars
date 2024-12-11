@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperMario Chars</string>
+
+    <string name="tv_description">Description</string>
+    <string name="tv_skills">Skills</string>
+    <string name="action_info">About...</string>
+    <string name="dialog_info"> Application developed by Francisco Villanueva Muñoz.\nVersion 1.0</string>
+
+    <string name="title_fragment_list">"Characters List"</string>
+    <string name="title_fragment_details">"Character Details"</string>
+    <string name="title_fragment_profile">"User Profile"</string>
+    <string name="welcome_message">"Welcome to Mario World!!!"</string>
+    <string name="character_selection">"You has selected the character "</string>
+
+    <string name="open_drawer">Open menu</string>
+    <string name="close_drawer">Close menu</string>
+    <string name="header_image_desc">Profile image</string>
+    <string name="username">Francisco Villanueva Muñoz</string>
+    <string name="this_is_your_profile">This is your profile</string>
+    <string name="switch_change_language">Change Language (Spanish/English)</string>
+    <string name="switch_darkMode">Dark Mode</string>
+
+
+    <!-- Mario -->
+    <string name="mario_description">"The iconic hero of the Mushroom Kingdom, known for saving Princess Peach."</string>
+    <string name="mario_skills">"Jump, Throw fireballs, Super strength"</string>
+    <!-- Luigi -->
+    <string name="luigi_description">"Mario's shy but brave brother, always ready to help."</string>
+    <string name="luigi_skills">"High jump, Use vacuum cleaners, Super jump"</string>
+
+    <!-- Princess Peach -->
+    <string name="peach_description">"The ruler of the Mushroom Kingdom and frequent target of Bowser."</string>
+    <string name="peach_skills">"Float, Throw hearts, Diplomatic skills"</string>
+
+    <!-- Bowser -->
+    <string name="bowser_description">"The King of the Koopas and Mario's main enemy."</string>
+    <string name="bowser_skills">"Throw fire, Super strength, Set traps"</string>
+
+    <!-- Yoshi -->
+    <string name="yoshi_description">"Mario's faithful dinosaur friend, known for his long tongue and unique abilities."</string>
+    <string name="yoshi_skills">"Swallow enemies, Float jump, Throw eggs"</string>
+
+    <!-- Toad -->
+    <string name="toad_description">"A resident of the Mushroom Kingdom, always willing to help Mario and Peach."</string>
+    <string name="toad_skills">"Run fast, Great endurance, Teamwork"</string>
+
+    <!-- Donkey Kong -->
+    <string name="donkey_kong_description">"The powerful gorilla with a love for bananas."</string>
+    <string name="donkey_kong_skills">"Super strength, Throw barrels, Climb"</string>
+
+    <!-- Rosalina -->
+    <string name="rosalina_description">"The guardian of the Lumas and the Comet Observatory."</string>
+    <string name="rosalina_skills">"Stellar magic, Gravity manipulation, Luma protection"</string>
+
+    <!-- Wario -->
+    <string name="wario_description">"Mario's rival, obsessed with gold and adventures."</string>
+    <string name="wario_skills">"Super strength, Powerful punches, Greed"</string>
+
+    <!-- Bowser Jr. -->
+    <string name="bowser_jr_description">"Bowser's mischievous son, always causing trouble for Mario."</string>
+    <string name="bowser_jr_skills">"Use magic brushes, Drive vehicles, Set traps"</string>
+</resources>
