@@ -20,6 +20,8 @@
     <string name="this_is_your_profile">This is your profile</string>
     <string name="switch_change_language">Change Language (Spanish/English)</string>
     <string name="switch_darkMode">Dark Mode</string>
+    <string name="settings_home">Home</string>
+    <string name="settings_settings">Settings</string>
 
 
     <!-- Mario -->

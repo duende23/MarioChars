@@ -14,6 +14,8 @@
     <string name="this_is_your_profile">Este es tu perfil</string>
     <string name="switch_change_language">Cambiar idioma (Español/Inglés)</string>
     <string name="switch_darkMode">Modo Oscuro</string>
+    <string name="settings_home">Inicio</string>
+    <string name="settings_settings">Ajustes</string>
 
 
     <string name="title_fragment_list">"Lista de personajes"</string>

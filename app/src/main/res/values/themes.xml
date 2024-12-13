@@ -18,21 +18,6 @@
         <item name="colorSecondaryVariant">@color/mario_red_dark</item>
         <item name="android:colorBackground">@color/background_light</item>
 
-      <!--  <item name="android:textColor">@color/mario_yellow</item>-->
-
-
-
-
-     <!--   &lt;!&ndash; Primary brand color. &ndash;&gt;
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorOnPrimary">@color/colorOnPrimary</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        &lt;!&ndash; Secondary brand color. &ndash;&gt;
-        <item name="colorSecondary">@color/colorSecondary</item>
-        <item name="colorSecondaryVariant">@color/colorSecondaryDark</item>
-        <item name="colorOnSecondary">@color/colorOnSecondary</item>
--->
         <!-- Status bar color. -->
         <item name="android:statusBarColor">@color/text_dark</item>
 

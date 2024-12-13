@@ -21,7 +21,7 @@ import dam.pmdm.tarea2fvm.databinding.FragmentCharacterListBinding;
 public class CharacterListFragment extends Fragment {
 
     //Bandera estática para controlar si es el primer inicio de la aplicación.
-    private static boolean isFirstLaunch = true;
+    //private static boolean isFirstLaunch = true; // Bandera estática
 
     private FragmentCharacterListBinding binding; // Binding para el layout
     private ArrayList<CharacterData> characters; // Lista de caracteres
@@ -33,11 +33,12 @@ public class CharacterListFragment extends Fragment {
         // Inflar el layout utilizando el binding
         binding = FragmentCharacterListBinding.inflate(inflater, container, false);
 
-        // Mostrar Snackbar solo al tomar los datos de la aplicación por primera vez
+        Snackbar.make(binding.getRoot(), getString(R.string.welcome_message), Snackbar.LENGTH_LONG).show();
+       /* // Mostrar Snackbar solo al tomar los datos de la aplicación por primera vez
         if (isFirstLaunch) {
             Snackbar.make(binding.getRoot(), getString(R.string.welcome_message), Snackbar.LENGTH_LONG).show();
             isFirstLaunch = false; // Actualizar la bandera
-        }
+        }*/
 
         return binding.getRoot();
 
@@ -53,11 +54,9 @@ public class CharacterListFragment extends Fragment {
         adapter = new CharacterRecyclerViewAdapter(characters, getActivity());
         binding.rvCharacterList.setLayoutManager(new LinearLayoutManager(getContext()));
         binding.rvCharacterList.setAdapter(adapter);
-    }
 
-    /**
-     * Carga una lista de personajes con datos predeterminados.
-     */
+
+     }
 
     private void loadCharacters() {
 
